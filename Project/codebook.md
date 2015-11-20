@@ -46,7 +46,7 @@ xData <- rbind(TrainX,TestX)
 ```
 ##Step 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 
-- We are using `Features$V1` to create a new table that can be used to select the mean and standard deviation for each measurement in `xData`.
+- I used `Features$V1` to create a new table which I then used to select the mean and standard deviation for each measurement in `xData`.
 ```r
 columnCodes <- paste("V",Features$V1,sep="")
 Feature_Selecter <- cbind(Features, columnCodes)
