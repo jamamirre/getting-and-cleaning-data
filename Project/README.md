@@ -7,7 +7,7 @@ The purpose of this project
 
 Background 
 --------------------------------------
-The original Human Activity Recognition database was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+The data used in this project is from Human Activity Recognition database. That database was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 Data Set Information:
 --------------------------------------
