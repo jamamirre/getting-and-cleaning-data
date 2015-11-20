@@ -1,7 +1,5 @@
-Coursera Course Project for Getting and Cleaning Data from 
-Human Activity Recognition Using Smartphones Dataset
-Version 1.0
-==================================================================
+CGetting and Cleaning Data from 
+================================
 
 The purpose of this project
 ----------------------------
@@ -26,7 +24,7 @@ My Assignment
 
 > 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
-In this repository should be 4 files
+There are 4 files in this repository
 --------------------------------------
 - *run_analysis.R* : the R script that does the assignment on the data set
 - *CodeBook.md* : the CodeBook reference for the run_analysis.r
