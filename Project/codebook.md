@@ -56,6 +56,7 @@ mean_N_std_data <- xData[, Feature_Selecter$columnCodes, with = FALSE]
 - Now I have a new dataset with only the mean and std for each measurement
 
 ##Step 3. Using descriptive activity names to name the activities in the data set
+- Mergin the activity id's from the training sets with the test sets
 ```r
 ActivityID <- rbind(TrainY,TestY)
 ```
@@ -63,7 +64,7 @@ ActivityID <- rbind(TrainY,TestY)
 ```r
 Approp_labels <-ActivityNames[match(ActivityID$V1,ActivityNames$V1),]
 ```
-- Overwriting the with the new descriptive activity names
+- Overwriting the id's with the new descriptive activity names
 ```r
 ActivityID$V1 <- Approp_labels$V2
 ```
