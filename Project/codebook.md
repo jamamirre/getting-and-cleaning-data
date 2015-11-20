@@ -40,7 +40,7 @@ Codebook
 
 `ActivityNamesv` from `activity_labels.txt` 
 
-## Step 1. Merging the training TrainX with the test sets TestX to create one data set xData.
+## Step 1. Merging the training sets in `TrainX` with the test sets  in `TestX` to create one data set `xData`.
 ```r
 xData <- rbind(TrainX,TestX)
 ```
