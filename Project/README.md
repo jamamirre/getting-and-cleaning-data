@@ -1,4 +1,4 @@
-Getting and Cleaning Data from 
+Getting and Cleaning Data Course Project
 ================================
 
 The purpose of this project
