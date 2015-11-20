@@ -4,7 +4,7 @@ Codebook
 ##Here are the data for the project: 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. 
 
-##Input Data used are:
+##Input Data I used are:
 
  `train/subject_train.txt` and `test/subject_test.txt`: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
@@ -22,7 +22,7 @@ Codebook
 `activity_labels.txt`: Links the class labels with their activity name.
 
 
-##The names of the local variable used to read the data
+##The local variable I used to read the data are:
 
 `SubjectTrain` from  `subject_train.txt` 
 
