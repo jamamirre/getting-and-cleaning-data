@@ -1,4 +1,4 @@
-CGetting and Cleaning Data from 
+Getting and Cleaning Data from 
 ================================
 
 The purpose of this project
